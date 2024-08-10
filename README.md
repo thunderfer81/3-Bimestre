@@ -1,2 +1,2 @@
-# 3-Bimestre
-Repsitório com materiais da plataforma Alura para consulta.
+# 3_Bimestre
+- Repositório com materiais da plataforma Alura para consulta.
